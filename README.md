@@ -104,7 +104,7 @@ The trained model predicts the laptop price based on user-provided specification
 | GPU         | Intel Integrated |
 | Screen Size | 15.6 inch        |
 
-###  Output
+### 📊 Sample Output
 
 <img width="1838" height="808" alt="Screenshot 2026-04-14 212510" src="https://github.com/user-attachments/assets/21916e3b-6b70-4f40-9c66-36e9cf4e4e0b" />
 
