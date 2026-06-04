@@ -104,13 +104,12 @@ The trained model predicts the laptop price based on user-provided specification
 | GPU         | Intel Integrated |
 | Screen Size | 15.6 inch        |
 
-### Sample Output
+###  Output
 
-```text
-Predicted Laptop Price: ₹58,000
-```
+<img width="1838" height="808" alt="Screenshot 2026-04-14 212510" src="https://github.com/user-attachments/assets/21916e3b-6b70-4f40-9c66-36e9cf4e4e0b" />
 
----
+<img width="1726" height="768" alt="Screenshot 2026-04-14 212704" src="https://github.com/user-attachments/assets/6d4f7807-ebaa-439e-a2f1-54dd4341072d" />
+
 
 ## 📈 Results
 
