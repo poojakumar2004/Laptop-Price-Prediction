@@ -129,7 +129,7 @@ The machine learning model successfully predicts laptop prices with good accurac
 
 ## 👨‍💻 Author
 
-**Pooja Kumar**
+**Github**- https://github.com/poojakumar2004/
 
 ---
 
