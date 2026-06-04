@@ -108,7 +108,8 @@ The trained model predicts the laptop price based on user-provided specification
 
 <img width="1838" height="808" alt="Screenshot 2026-04-14 212510" src="https://github.com/user-attachments/assets/21916e3b-6b70-4f40-9c66-36e9cf4e4e0b" />
 
-<img width="1726" height="768" alt="Screenshot 2026-04-14 212704" src="https://github.com/user-attachments/assets/6d4f7807-ebaa-439e-a2f1-54dd4341072d" />
+<img width="1694" height="786" alt="Screenshot 2026-04-14 212719" src="https://github.com/user-attachments/assets/701e4b3c-503f-4320-9865-89949c8a2979" />
+
 
 
 ## 📈 Results
